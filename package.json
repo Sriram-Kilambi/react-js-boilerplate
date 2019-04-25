@@ -1,5 +1,5 @@
 {
-  "name": "sriram-react-starter-kit",
+  "name": "sriram-react-js-starter-kit",
   "version": "1.0.0",
   "description": "A minimalistic React boilerplate which can be used for large scale applications.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sriram-Kilambi/react-application-starter-kit.git"
+    "url": "git+https://github.com/Sriram-Kilambi/react-js-boilerplate.git"
   },
   "keywords": [
     "reactjs"
@@ -19,9 +19,9 @@
   "author": "Sriram K",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sriram-Kilambi/react-application-starter-kit/issues"
+    "url": "https://github.com/Sriram-Kilambi/react-js-boilerplate/issues"
   },
-  "homepage": "https://github.com/Sriram-Kilambi/react-application-starter-kit#readme",
+  "homepage": "https://github.com/Sriram-Kilambi/react-js-boilerplate#readme",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
